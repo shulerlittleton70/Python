@@ -5,3 +5,11 @@
 #A variable is basically just a way to give a meaningful name to an area of memory, into which we can place
 #certain values
 
+greeting = "Hello"
+age = 24
+print(age)
+print(greeting)
+
+
+print(type(age))
+print(type(greeting))
