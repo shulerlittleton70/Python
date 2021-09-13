@@ -1,0 +1,28 @@
+# Strings are a sequence data type
+#         01234567890123
+parrot = "Norwegian Blue"
+
+print(parrot)
+
+#print(parrot[3]) #prints w, programing starts counting at 0, N = 0, o = 1, ....
+
+
+######MINI CHALLENGE#######
+#Challenge: Add some code to the program so that it prints we win
+#Each character should appear on a serperate line
+#The program should get the characters from the parrot string, using indexing
+
+print(parrot[-11])
+print(parrot[-10])
+print()
+print(parrot[-11])
+print(parrot[-8])
+print(parrot[-6])
+print()
+
+
+##Reverse Index
+print(parrot[-1])
+
+#start counting back from -1, start forward at 0
+
