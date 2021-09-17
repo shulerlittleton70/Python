@@ -26,3 +26,16 @@ print(parrot[-1])
 
 #start counting back from -1, start forward at 0
 
+print (parrot[0:6]) #Norweg
+
+#"UP TO BUT NOT INCLUDING!" 0:6 includes 0 - 5 and stops up to 6
+
+
+print(parrot[3:5]) #we
+
+print(parrot[0:9]) #Norwegian
+print(parrot[:9]) #Norwegian
+
+
+
+
