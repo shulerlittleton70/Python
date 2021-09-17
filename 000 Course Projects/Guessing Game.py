@@ -2,7 +2,7 @@ import time as t
 
 answer = 5
 
-print("Please guess an number between 1 and 10: ")
+print("Please guess a number between 1 and 10: ")
 guess = int(input())
 
 if guess < answer:
@@ -21,7 +21,7 @@ elif guess > answer:
     if guess == answer:
         print("Well done! You guessed it!")
     else:
-        print("GAME OER")
+        print("GAME OVER")
         t.sleep(5)
 
 else:
