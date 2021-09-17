@@ -39,6 +39,15 @@ print(parrot[:9]) #Norwegian
 print(parrot[10:]) #Blue
 print(parrot[10:14]) #Blue
 
+print(parrot[10]) #Index
+print(parrot[10:11]) #slice
+#Both Show B
+
+print(parrot[:]) #Full Word
+#If you dont provide a start value, it auto start at 0
+#If you dont provide a stop value, it assume the end
+
+
 
 
 
