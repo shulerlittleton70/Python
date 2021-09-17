@@ -36,6 +36,9 @@ print(parrot[3:5]) #we
 print(parrot[0:9]) #Norwegian
 print(parrot[:9]) #Norwegian
 
+print(parrot[10:]) #Blue
+print(parrot[10:14]) #Blue
+
 
 
 
