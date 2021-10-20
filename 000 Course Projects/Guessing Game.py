@@ -27,3 +27,10 @@ elif guess > answer:
 else:
     print("You got it the first time!")
     t.sleep(5)
+
+
+
+#if BLOCKS a block can be quite complex, including further if and else blocks contained within ist
+#when testing for equalitym we cant use a single = symbol. = is used for assigning values to variables, so when test
+#ing for equality we have to use ==
+
